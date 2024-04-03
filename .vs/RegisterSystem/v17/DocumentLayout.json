@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arma\\source\\repos\\RegisterSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47C15B23-E3E3-420E-80A4-0D7883A0C632}|RegisterSystem.csproj|c:\\users\\arma\\source\\repos\\registersystem\\classes\\sqlconnectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C15B23-E3E3-420E-80A4-0D7883A0C632}|RegisterSystem.csproj|solutionrelative:classes\\sqlconnectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C15B23-E3E3-420E-80A4-0D7883A0C632}|RegisterSystem.csproj|C:\\Users\\Arma\\source\\repos\\RegisterSystem\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C15B23-E3E3-420E-80A4-0D7883A0C632}|RegisterSystem.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C15B23-E3E3-420E-80A4-0D7883A0C632}|RegisterSystem.csproj|C:\\Users\\Arma\\source\\repos\\RegisterSystem\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{47C15B23-E3E3-420E-80A4-0D7883A0C632}|RegisterSystem.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Arma\\source\\repos\\RegisterSystem\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Arma\\source\\repos\\RegisterSystem\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:30:44.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Arma\\source\\repos\\RegisterSystem\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Arma\\source\\repos\\RegisterSystem\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T10:49:25.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\Arma\\source\\repos\\RegisterSystem\\Classes\\SqlConnectionClass.cs",
+              "RelativeDocumentMoniker": "Classes\\SqlConnectionClass.cs",
+              "ToolTip": "C:\\Users\\Arma\\source\\repos\\RegisterSystem\\Classes\\SqlConnectionClass.cs",
+              "RelativeToolTip": "Classes\\SqlConnectionClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:59:25.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
